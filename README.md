@@ -1,4 +1,4 @@
-# Web-sccraping-top-companies-2022-from-wikipedia
+# Web-scraping-top-companies -from-wikipedia
 
 Webpage used - https://en.wikipedia.org/wiki/List_of_largest_companies_in_India
 
